@@ -15,5 +15,3 @@ function whileLoop(n) {
   }
     return "done";
 }
-
-whileLoop(parseInt(Math.random() * 100))
